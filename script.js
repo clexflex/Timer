@@ -27,6 +27,6 @@ const x = setInterval(function() {
     // If the count down is finished, display a message
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("countdown").innerHTML = "Countdown Finished";
+        document.getElementById("countdown").innerHTML = "I Love you Yushi, I waited for this moment since so long";
     }
 }, 10);
